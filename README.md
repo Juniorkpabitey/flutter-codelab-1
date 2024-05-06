@@ -1,6 +1,6 @@
-# Word Pair
+# Name App
 
-Word pair is a simple Flutter application that generates random word pairs and allows users to mark their favorites.
+Namer App is a simple Flutter application that generates random word pairs and allows users to mark their favorites.
 
 ## Features
 
